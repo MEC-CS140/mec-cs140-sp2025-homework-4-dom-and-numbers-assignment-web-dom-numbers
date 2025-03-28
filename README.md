@@ -1,6 +1,6 @@
 # CS 140: Homework - Alert with Numbers
 
-🔎🔍🔎🔍 [See the example here](https://purple-sand-0cee30710.4.azurestaticapps.net)
+🔎🔍🔎🔍 [See the example here](https://purple-sand-0cee30710.4.azurestaticapps.net/hw-dom-numbers)
 
 ## Instructions
 Create a webpage with a button that triggers an alert when clicked. The alert will display a number that increases with each button click. For extra credit, the alert will also print whether the number is even or odd.
