@@ -1,4 +1,4 @@
-# CS 140: Homework - Alert with Numbers
+# CS 140: Homework 4 - Alert with Numbers
 
 🔎🔍🔎🔍 [See the example here](https://purple-sand-0cee30710.4.azurestaticapps.net/hw-dom-numbers)
 
